@@ -1,4 +1,4 @@
-# Fidelis EDR Scripts
+# Fidelis CyberSecurity EDR Scripts
 Misc. collection of scripts for Fidelis Cybersecurity EDR. The scripts send back the results to fidelis CyberSecurtiy EDR server and the excution results can be visiable within the UI.
 
 Scripts useful for: 
