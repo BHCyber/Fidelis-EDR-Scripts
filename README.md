@@ -24,4 +24,3 @@ List of scripts:
 - Example: GroupPolicyStatus.vbs "{5102029F-2D2B-4596-99D0-150E8F4B0F6D}"
 - Output: 
   - Policy Status: Enabled or Disabled
-  - Policy Name
