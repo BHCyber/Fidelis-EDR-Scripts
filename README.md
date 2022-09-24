@@ -9,8 +9,10 @@ Scripts useful for:
 
 
 List of scripts:
-1. GroupPolicyStatus.vbs
-2. HostsFileEnumeration.vbs
+1. Group Policy
+   - GroupPolicyStatus.vbs
+2. Windows
+   - HostsFileEnumeration.vbs
 
 
 
