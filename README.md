@@ -9,8 +9,8 @@ Scripts useful for:
 
 
 List of scripts:
-
-1.GroupPolicyStatus.vbs
+1. GroupPolicyStatus.vbs
+2. HostsFileEnumeration.vbs
 
 
 
@@ -24,3 +24,12 @@ List of scripts:
 - Example: GroupPolicyStatus.vbs "{5102029F-2D2B-4596-99D0-150E8F4B0F6D}"
 - Output: 
   - Policy Status: Enabled or Disabled
+
+### HostsFileEnumeration.vbs
+- Description:
+   - Parse and enumarate the lines of the windows hosts file. 
+- Args in Order:
+  - None
+- Example: HostsFileEnumeration.vbs
+- Output: 
+  - hosts file content list: Hostname , IP
